@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /shs/img/feature.jpg
+featured-image: https://www.google.com/search?q=vintage+plain+aesthetic+background&tbm=isch&hl=en&sa=X&ved=2ahUKEwjYl4f916D4AhV6xIsBHWqrAO8QrNwCKAB6BQgBEIEC&biw=1349&bih=568#imgrc=GXyJuNy8nHDRCM&imgdii=HIVSfMFgvw0xlM
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
